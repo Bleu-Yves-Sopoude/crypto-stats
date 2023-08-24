@@ -1,6 +1,5 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
-// import { filterCategories } from '../redux/categoriesSlice';
 import { filteredCurrencyLists } from '../redux/currencies/currencySlice';
 
 const Filter = () => {

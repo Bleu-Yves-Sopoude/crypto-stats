@@ -13,9 +13,10 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[BookStore\] ](#-bookstore-)
+- [📖 \[Crypto stats\] ](#-crypto-stats-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -31,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [BookStore] <a name="about-project"></a>
+# 📖 [Crypto stats] <a name="about-project"></a>
 
 **[Crypto Stats]**  is a mobile web application to check a list of metrics
 
@@ -61,11 +62,23 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<!-- Live Demo -->
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://mellifluous-dasik-319634.netlify.app/)
+- [Video Presentation](https://www.loom.com/share/99955907f79d4a2897e0af79c3f7b5f8?sid=a3a4bf41-17ae-456c-8ffb-323f65b6c518)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps downbelow!
+To get a local copy up and running, follow the steps below!
 
 ### Prerequisites
 
@@ -79,7 +92,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/Bleu-Yves-Sopoude/Bookstore.git
+git clone https://github.com/Bleu-Yves-Sopoude/crypto-stats
 
 ### Install
 
@@ -152,7 +165,7 @@ npx eslint .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Bleu-Yves-Sopoude/Bookstore/issues).
+Feel free to check the [issues page](https://github.com/Bleu-Yves-Sopoude/crypto-stats/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,7 +183,8 @@ If you like this project don't hesitate to give a star and follow me on github!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Thanks to Microverse for this life changing experience.
+I would like to thank <a href="https://www.microverse.org/">Microverse</a> for providing the guidelines that made this project possible, <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakawa</a> for providing the <a href="https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)">design</a> for the user interface.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

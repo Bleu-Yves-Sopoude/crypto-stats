@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 import configureStore from 'redux-mock-store';
 import CryptoDetails from './CryptoDetails';
-import '@testing-library/jest-dom'
+import '@testing-library/jest-dom';
 
 const mockStore = configureStore([]);
 
