@@ -1,6 +1,5 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-//import Header from '../redux/tests/Header';
 import '@testing-library/jest-dom';
 import Navbar from './navbar';
 
