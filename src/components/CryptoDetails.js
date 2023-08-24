@@ -27,42 +27,44 @@ const CryptoDetails = () => {
   return (
     <div className="container">
       <table className="card-details">
-        <tr className="bg">
-          <td>Name</td>
-          <td>{name}</td>
-        </tr>
-        <tr className="bg">
-          <td>Symbol</td>
-          <td>{symbol}</td>
-        </tr>
-        <tr className="bg">
-          <td>Rank</td>
-          <td>{rank}</td>
-        </tr>
-        <tr className="bg">
-          <td>Price</td>
-          <td>{price}</td>
-        </tr>
-        <tr className="bg">
-          <td>Price (BTC)</td>
-          <td>{priceBtc}</td>
-        </tr>
-        <tr className="bg">
-          <td>Market Cap</td>
-          <td>{marketCap}</td>
-        </tr>
-        <tr className="bg">
-          <td>Available Supply</td>
-          <td>{availableSupply}</td>
-        </tr>
-        <tr className="bg">
-          <td>Total Supply</td>
-          <td>{totalSupply}</td>
-        </tr>
-        <tr className="bg">
-          <td>WebsiteUrl</td>
-          <td>{websiteUrl}</td>
-        </tr>
+        <tbody>
+          <tr className="bg">
+            <td>Name</td>
+            <td>{name}</td>
+          </tr>
+          <tr className="bg">
+            <td>Symbol</td>
+            <td>{symbol}</td>
+          </tr>
+          <tr className="bg">
+            <td>Rank</td>
+            <td>{rank}</td>
+          </tr>
+          <tr className="bg">
+            <td>Price</td>
+            <td>{price}</td>
+          </tr>
+          <tr className="bg">
+            <td>Price (BTC)</td>
+            <td>{priceBtc}</td>
+          </tr>
+          <tr className="bg">
+            <td>Market Cap</td>
+            <td>{marketCap}</td>
+          </tr>
+          <tr className="bg">
+            <td>Available Supply</td>
+            <td>{availableSupply}</td>
+          </tr>
+          <tr className="bg">
+            <td>Total Supply</td>
+            <td>{totalSupply}</td>
+          </tr>
+          <tr className="bg">
+            <td>WebsiteUrl</td>
+            <td>{websiteUrl}</td>
+          </tr>
+        </tbody>
       </table>
       <Footer />
     </div>

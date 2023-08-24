@@ -3,7 +3,7 @@ import { render, screen } from '@testing-library/react';
 import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 import configureStore from 'redux-mock-store';
-import CryptoDetails from './CryptoDetails';
+import CryptoDetails from '../components/CryptoDetails.js';
 import '@testing-library/jest-dom';
 
 const mockStore = configureStore([]);
