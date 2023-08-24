@@ -16,6 +16,7 @@
 - [📖 \[BookStore\] ](#-bookstore-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -60,6 +61,18 @@
 - **[Async]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- Live Demo -->
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://mellifluous-dasik-319634.netlify.app/)
+- [Video Presentation]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- GETTING STARTED -->
 
