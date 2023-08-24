@@ -26,7 +26,6 @@ const CryptoDetails = () => {
 
   return (
     <div className="container">
-      
       <table className="card-details">
         <tr className="bg">
           <td>Name</td>

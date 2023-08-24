@@ -12,7 +12,7 @@
 
 body {
   background-color: #ee84ad;
-  font-family: 'comic Sans MS', sans-serif;
+  font-family: "comic Sans MS", sans-serif;
 }
 
 .homepage-container {
@@ -96,8 +96,8 @@ p {
   transition: box-shadow 0.3s, transform 0.3s;
 }
 
-.card:nth-child(4n+3),
-.card:nth-child(4n+2) {
+.card:nth-child(4n + 3),
+.card:nth-child(4n + 2) {
   background: blueviolet;
 }
 
@@ -135,7 +135,16 @@ p {
   padding: 1rem;
 }
 
-
+.back-link {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  color: #fd5294;
+  background-color: #fff;
+  padding: 0.3rem 0.5rem;
+  border-radius: 0.2rem;
+  transition: box-shadow 0.3s, transform 0.3s;
+}
 
 .back-link:hover {
   transform: translateY(-2px);
@@ -198,10 +207,10 @@ p {
     margin-bottom: 0.7rem;
     font-size: 0.9rem;
   }
-  .card:nth-child(4n+3),
-.card:nth-child(4n+2) {
-  background: #fd5294;
-}
+  .card:nth-child(4n + 3),
+  .card:nth-child(4n + 2) {
+    background: #fd5294;
+  }
 }
 
 /* filter */
