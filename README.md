@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [BookStore] <a name="about-project"></a>
+# 📖 [Crypto Stats] <a name="about-project"></a>
 
 **[Crypto Stats]**  is a mobile web application to check a list of metrics
 
@@ -68,7 +68,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://mellifluous-dasik-319634.netlify.app/)
-- [Video Presentation]()
+- [Video Presentation](https://www.loom.com/share/99955907f79d4a2897e0af79c3f7b5f8?sid=a3a4bf41-17ae-456c-8ffb-323f65b6c518)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +78,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps downbelow!
+To get a local copy up and running, follow the steps below!
 
 ### Prerequisites
 
@@ -92,7 +92,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/Bleu-Yves-Sopoude/Bookstore.git
+git clone https://github.com/Bleu-Yves-Sopoude/crypto-stats
 
 ### Install
 
@@ -165,7 +165,7 @@ npx eslint .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Bleu-Yves-Sopoude/Bookstore/issues).
+Feel free to check the [issues page](https://github.com/Bleu-Yves-Sopoude/crypto-stats/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
