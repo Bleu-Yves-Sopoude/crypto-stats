@@ -185,7 +185,6 @@ If you like this project don't hesitate to give a star and follow me on github!
 
 I would like to thank <a href="https://www.microverse.org/">Microverse</a> for providing the guidelines that made this project possible, <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakawa</a> for providing the <a href="https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)">design</a> for the user interface.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
