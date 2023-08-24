@@ -208,7 +208,6 @@ p {
     margin-bottom: 0.7rem;
     font-size: 0.9rem;
   }
-  
   .card:nth-child(4n + 3),
   .card:nth-child(4n + 2) {
     background: #fd5294;
